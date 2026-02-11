@@ -42,3 +42,6 @@
 
 # build directory
 build/
+
+# Doxygen documentation
+docs/
